@@ -4,13 +4,12 @@
 
 **Processamento de Linguagens e Compiladores · 2026**
 
-<img src="plc2026/foto.png" alt="Dinis Macedo, A111531" width="150">
+<img src="../foto.png" alt="Dinis Macedo, A111531" width="150">
 
 **Dinis Macedo** · `a111531`
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-→-HTML-informational)
-![Estado](https://img.shields.io/badge/estado-concluído-brightgreen)
 
 </div>
 
@@ -125,6 +124,8 @@ Como se vê na imagem seguinte: ![imagem dum coelho](http://www.coellho.com) ...
 Como se vê na imagem seguinte: <img src="http://www.coellho.com" alt="imagem dum coelho"/> ...
 ```
 
+---
+
 <div align="center">
-<sub>Universidade do Minho · Processamento de Linguagens e Compiladores · 2026</sub>
+<sub>Processamento de Linguagens e Compiladores · 2026</sub>
 </div>
