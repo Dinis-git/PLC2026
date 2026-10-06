@@ -4,7 +4,7 @@
 
 **Processamento de Linguagens e Compiladores · 2026**
 
-<img src="image.png" alt="Dinis Macedo, A111531" width="150">
+<img src="plc2026/foto.png" alt="Dinis Macedo, A111531" width="150">
 
 **Dinis Macedo** · `a111531`
 
@@ -124,27 +124,6 @@ Como se vê na imagem seguinte: ![imagem dum coelho](http://www.coellho.com) ...
 ```html
 Como se vê na imagem seguinte: <img src="http://www.coellho.com" alt="imagem dum coelho"/> ...
 ```
-
----
-
-## ▶️ Como executar
-
-```bash
-python conversor.py
-```
-
-> Ajusta o nome do ficheiro e os argumentos conforme a tua implementação.
-
-## 📁 Estrutura
-
-```
-.
-├── conversor.py   # Implementação do conversor
-├── image.png      # Fotografia do autor
-└── README.md
-```
-
----
 
 <div align="center">
 <sub>Universidade do Minho · Processamento de Linguagens e Compiladores · 2026</sub>
