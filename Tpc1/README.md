@@ -2,7 +2,7 @@
 
 ## Dinis Macedo, a111531
 
-<img src="image.png" alt="Dinis Macedo, A111531" width="150">
+<img src="../foto.png" alt="Dinis Macedo, A111531" width="150">
 
 ---
 
